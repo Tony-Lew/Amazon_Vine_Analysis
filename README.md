@@ -49,4 +49,6 @@ Non-Vine 5 Star Percentage
 
 ### Summary
 
-Reviewing the results of the Vine and Non-Vine data, It shows that the Non-Vine reviews where higher than the Vine Reviewed. The Non-Vine Reviewers gave it a 5 star at 53% where the Vine Reviewers gave it a 5 Star at 42%. These numbers are very scewed as the Vine reviews is less then 1% of total reviewers compared to the Non-Vine Reviewers.
+Reviewing the results of the Vine and Non-Vine data, It shows that the Non-Vine reviews where higher than the Vine Reviewed. The Non-Vine Reviewers gave it a 5 star at 53% where the Vine Reviewers gave it a 5 Star at 42%. These numbers are very scewed as the Vine reviews is less then 1% of total reviewers compared to the Non-Vine Reviewers. We also went further to confirm that Non-Vine customers purchased the product with another dataframe and came up with 54% of them gave it a 5 Star review.
+
+![Varified puchase Non Paid](https://github.com/Tony-Lew/Amazon_Vine_Analysis/blob/main/Resources/Varified%20puchase%20Non%20Paid.png)
