@@ -20,3 +20,33 @@ We filtered the dataframe to retrieve rows where the total_count was greater or 
 #### Total Number of Reviews
 
 Vine Reviews
+
+![Number of reivews paid](https://user-images.githubusercontent.com/100821974/176732854-cabf8f5a-f03f-42d4-b845-53684844b601.png)
+
+Non-Vine Reviews
+
+![Number of reviews unpaid](https://github.com/Tony-Lew/Amazon_Vine_Analysis/blob/main/Resources/Number%20of%20%20reivews%20unpaid.png)
+
+#### Number of 5 Star Reviews
+
+Vine 5 Star Reviews
+
+![Number of 5 star reviews paid](https://github.com/Tony-Lew/Amazon_Vine_Analysis/blob/main/Resources/Number%20of%205%20star%20reivews%20paid.png)
+
+Non-Vine 5 Star Reviews
+
+![Number of 5 star reviews unpaid](https://github.com/Tony-Lew/Amazon_Vine_Analysis/blob/main/Resources/Number%20of%205%20star%20reivews%20unpaid.png)
+
+#### Percentage of 5 Star Reviews
+
+Vine 5 Star Reviews Percentage
+
+![Percentage of 5 star reivews paid](https://github.com/Tony-Lew/Amazon_Vine_Analysis/blob/main/Resources/Percentage%20of%205%20star%20reivews%20paid.png)
+
+Non-Vine 5 Star Percentage
+
+![Percentage of 5 star unpaid](https://github.com/Tony-Lew/Amazon_Vine_Analysis/blob/main/Resources/Percentage%20of%205%20star%20unpaid.png)
+
+### Summary
+
+Reviewing the results of the Vine and Non-Vine data, It shows that the Non-Vine reviews where higher than the Vine Reviewed. The Non-Vine Reviewers gave it a 5 star at 53% where the Vine Reviewers gave it a 5 Star at 42%. These numbers are very scewed as the Vine reviews is less then 1% of total reviewers compared to the Non-Vine Reviewers.
